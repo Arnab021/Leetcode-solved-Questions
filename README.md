@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Arnab021/Leetcode-solved-Questions/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/Arnab021/Leetcode-solved-Questions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Arnab021/Leetcode-solved-Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0283-move-zeroes](https://github.com/Arnab021/Leetcode-solved-Questions/tree/master/0283-move-zeroes) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Arnab021/Leetcode-solved-Questions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -46,4 +47,12 @@
 |  |
 | ------- |
 | [3731-find-missing-elements](https://github.com/Arnab021/Leetcode-solved-Questions/tree/master/3731-find-missing-elements) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Arnab021/Leetcode-solved-Questions/tree/master/0004-median-of-two-sorted-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Arnab021/Leetcode-solved-Questions/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
