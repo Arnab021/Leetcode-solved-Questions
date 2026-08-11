@@ -37,6 +37,7 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Arnab021/Leetcode-solved-Questions/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/Arnab021/Leetcode-solved-Questions/tree/master/0009-palindrome-number) |
 | [0231-power-of-two](https://github.com/Arnab021/Leetcode-solved-Questions/tree/master/0231-power-of-two) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Arnab021/Leetcode-solved-Questions/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Bit Manipulation
