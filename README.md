@@ -13,6 +13,7 @@
 | [0169-majority-element](https://github.com/Arnab021/Leetcode-solved-Questions/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/Arnab021/Leetcode-solved-Questions/tree/master/0283-move-zeroes) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Arnab021/Leetcode-solved-Questions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Arnab021/Leetcode-solved-Questions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/Arnab021/Leetcode-solved-Questions/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
@@ -20,6 +21,7 @@
 | [0001-two-sum](https://github.com/Arnab021/Leetcode-solved-Questions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Arnab021/Leetcode-solved-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/Arnab021/Leetcode-solved-Questions/tree/master/0169-majority-element) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Arnab021/Leetcode-solved-Questions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/Arnab021/Leetcode-solved-Questions/tree/master/3731-find-missing-elements) |
 ## String
 |  |
@@ -56,6 +58,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Arnab021/Leetcode-solved-Questions/tree/master/0169-majority-element) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Arnab021/Leetcode-solved-Questions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/Arnab021/Leetcode-solved-Questions/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
