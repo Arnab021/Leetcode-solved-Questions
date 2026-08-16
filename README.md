@@ -14,6 +14,7 @@
 | [0169-majority-element](https://github.com/Arnab021/Leetcode-solved-Questions/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/Arnab021/Leetcode-solved-Questions/tree/master/0283-move-zeroes) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Arnab021/Leetcode-solved-Questions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [2029-stone-game-ix](https://github.com/Arnab021/Leetcode-solved-Questions/tree/master/2029-stone-game-ix) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Arnab021/Leetcode-solved-Questions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Arnab021/Leetcode-solved-Questions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/Arnab021/Leetcode-solved-Questions/tree/master/3731-find-missing-elements) |
@@ -42,6 +43,7 @@
 | [0007-reverse-integer](https://github.com/Arnab021/Leetcode-solved-Questions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Arnab021/Leetcode-solved-Questions/tree/master/0009-palindrome-number) |
 | [0231-power-of-two](https://github.com/Arnab021/Leetcode-solved-Questions/tree/master/0231-power-of-two) |
+| [2029-stone-game-ix](https://github.com/Arnab021/Leetcode-solved-Questions/tree/master/2029-stone-game-ix) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Arnab021/Leetcode-solved-Questions/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Bit Manipulation
 |  |
@@ -79,6 +81,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Arnab021/Leetcode-solved-Questions/tree/master/0011-container-with-most-water) |
+| [2029-stone-game-ix](https://github.com/Arnab021/Leetcode-solved-Questions/tree/master/2029-stone-game-ix) |
 ## Trie
 |  |
 | ------- |
@@ -91,8 +94,25 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Arnab021/Leetcode-solved-Questions/tree/master/0169-majority-element) |
+| [2029-stone-game-ix](https://github.com/Arnab021/Leetcode-solved-Questions/tree/master/2029-stone-game-ix) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Arnab021/Leetcode-solved-Questions/tree/master/0169-majority-element) |
+## Minimax
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/Arnab021/Leetcode-solved-Questions/tree/master/2029-stone-game-ix) |
+## Game Theory
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/Arnab021/Leetcode-solved-Questions/tree/master/2029-stone-game-ix) |
+## Nim Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/Arnab021/Leetcode-solved-Questions/tree/master/2029-stone-game-ix) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/Arnab021/Leetcode-solved-Questions/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
