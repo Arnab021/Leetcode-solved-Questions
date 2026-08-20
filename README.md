@@ -12,6 +12,7 @@
 | [0027-remove-element](https://github.com/Arnab021/Leetcode-solved-Questions/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Arnab021/Leetcode-solved-Questions/tree/master/0035-search-insert-position) |
 | [0169-majority-element](https://github.com/Arnab021/Leetcode-solved-Questions/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/Arnab021/Leetcode-solved-Questions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Arnab021/Leetcode-solved-Questions/tree/master/0283-move-zeroes) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Arnab021/Leetcode-solved-Questions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2029-stone-game-ix](https://github.com/Arnab021/Leetcode-solved-Questions/tree/master/2029-stone-game-ix) |
@@ -45,6 +46,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/Arnab021/Leetcode-solved-Questions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Arnab021/Leetcode-solved-Questions/tree/master/0009-palindrome-number) |
+| [0189-rotate-array](https://github.com/Arnab021/Leetcode-solved-Questions/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Arnab021/Leetcode-solved-Questions/tree/master/0231-power-of-two) |
 | [2029-stone-game-ix](https://github.com/Arnab021/Leetcode-solved-Questions/tree/master/2029-stone-game-ix) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Arnab021/Leetcode-solved-Questions/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -63,6 +65,7 @@
 | [0011-container-with-most-water](https://github.com/Arnab021/Leetcode-solved-Questions/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Arnab021/Leetcode-solved-Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Arnab021/Leetcode-solved-Questions/tree/master/0027-remove-element) |
+| [0189-rotate-array](https://github.com/Arnab021/Leetcode-solved-Questions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Arnab021/Leetcode-solved-Questions/tree/master/0283-move-zeroes) |
 ## Sorting
 |  |
