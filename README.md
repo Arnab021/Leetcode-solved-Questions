@@ -11,6 +11,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Arnab021/Leetcode-solved-Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Arnab021/Leetcode-solved-Questions/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Arnab021/Leetcode-solved-Questions/tree/master/0035-search-insert-position) |
+| [0136-single-number](https://github.com/Arnab021/Leetcode-solved-Questions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Arnab021/Leetcode-solved-Questions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Arnab021/Leetcode-solved-Questions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Arnab021/Leetcode-solved-Questions/tree/master/0283-move-zeroes) |
@@ -54,6 +55,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Arnab021/Leetcode-solved-Questions/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Arnab021/Leetcode-solved-Questions/tree/master/0231-power-of-two) |
 | [1009-complement-of-base-10-integer](https://github.com/Arnab021/Leetcode-solved-Questions/tree/master/1009-complement-of-base-10-integer) |
 ## Recursion
