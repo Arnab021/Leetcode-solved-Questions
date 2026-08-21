@@ -14,6 +14,7 @@
 | [0169-majority-element](https://github.com/Arnab021/Leetcode-solved-Questions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Arnab021/Leetcode-solved-Questions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Arnab021/Leetcode-solved-Questions/tree/master/0283-move-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/Arnab021/Leetcode-solved-Questions/tree/master/0485-max-consecutive-ones) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Arnab021/Leetcode-solved-Questions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2029-stone-game-ix](https://github.com/Arnab021/Leetcode-solved-Questions/tree/master/2029-stone-game-ix) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Arnab021/Leetcode-solved-Questions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
