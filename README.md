@@ -52,6 +52,7 @@
 | [0231-power-of-two](https://github.com/Arnab021/Leetcode-solved-Questions/tree/master/0231-power-of-two) |
 | [2029-stone-game-ix](https://github.com/Arnab021/Leetcode-solved-Questions/tree/master/2029-stone-game-ix) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Arnab021/Leetcode-solved-Questions/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Arnab021/Leetcode-solved-Questions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Bit Manipulation
 |  |
 | ------- |
