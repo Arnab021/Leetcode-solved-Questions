@@ -38,6 +38,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Arnab021/Leetcode-solved-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/Arnab021/Leetcode-solved-Questions/tree/master/0014-longest-common-prefix) |
+| [1927-sum-game](https://github.com/Arnab021/Leetcode-solved-Questions/tree/master/1927-sum-game) |
 ## Sliding Window
 |  |
 | ------- |
@@ -50,6 +51,7 @@
 | [0009-palindrome-number](https://github.com/Arnab021/Leetcode-solved-Questions/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/Arnab021/Leetcode-solved-Questions/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Arnab021/Leetcode-solved-Questions/tree/master/0231-power-of-two) |
+| [1927-sum-game](https://github.com/Arnab021/Leetcode-solved-Questions/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Arnab021/Leetcode-solved-Questions/tree/master/2029-stone-game-ix) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Arnab021/Leetcode-solved-Questions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Arnab021/Leetcode-solved-Questions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -91,6 +93,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Arnab021/Leetcode-solved-Questions/tree/master/0011-container-with-most-water) |
+| [1927-sum-game](https://github.com/Arnab021/Leetcode-solved-Questions/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Arnab021/Leetcode-solved-Questions/tree/master/2029-stone-game-ix) |
 ## Trie
 |  |
@@ -116,6 +119,7 @@
 ## Game Theory
 |  |
 | ------- |
+| [1927-sum-game](https://github.com/Arnab021/Leetcode-solved-Questions/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Arnab021/Leetcode-solved-Questions/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
