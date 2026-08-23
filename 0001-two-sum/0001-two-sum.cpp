@@ -1,17 +1,23 @@
 class Solution {
 public:
     vector<int> twoSum(vector<int>& nums, int target) {
-        std::unordered_map<int, int> num_to_index;
-        
-        for (int i = 0; i < nums.size(); ++i) {
-            int complement = target - nums[i];
-            if (num_to_index.find(complement) != num_to_index.end()) {
-                return {num_to_index[complement], i};
-            }
-            num_to_index[nums[i]] = i;
+        int n = nums.size();
+        vector<pair<int, int>> numsWithIndex;
+        for (int i = 0; i < n; i++) {
+            numsWithIndex.push_back({nums[i], i});
         }
-        
-        // Return an empty vector if no solution is found (guaranteed not to happen per constraints)
-        return {};
+        sort(numsWithIndex.begin(), numsWithIndex.end());
+        int left = 0, right = n - 1;
+        while (left < right) {
+            int sum = numsWithIndex[left].first + numsWithIndex[right].first;
+            if (sum == target) {
+                return {numsWithIndex[left].second, numsWithIndex[right].second};
+            } else if (sum < target) {
+                left++;
+            } else {
+                right--;
+            }
+        }
+        return {-1, -1};
     }
 };
