@@ -11,6 +11,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Arnab021/Leetcode-solved-Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Arnab021/Leetcode-solved-Questions/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Arnab021/Leetcode-solved-Questions/tree/master/0035-search-insert-position) |
+| [0075-sort-colors](https://github.com/Arnab021/Leetcode-solved-Questions/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/Arnab021/Leetcode-solved-Questions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Arnab021/Leetcode-solved-Questions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Arnab021/Leetcode-solved-Questions/tree/master/0189-rotate-array) |
@@ -71,11 +72,13 @@
 | [0011-container-with-most-water](https://github.com/Arnab021/Leetcode-solved-Questions/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Arnab021/Leetcode-solved-Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Arnab021/Leetcode-solved-Questions/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/Arnab021/Leetcode-solved-Questions/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/Arnab021/Leetcode-solved-Questions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Arnab021/Leetcode-solved-Questions/tree/master/0283-move-zeroes) |
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Arnab021/Leetcode-solved-Questions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Arnab021/Leetcode-solved-Questions/tree/master/0169-majority-element) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Arnab021/Leetcode-solved-Questions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/Arnab021/Leetcode-solved-Questions/tree/master/3731-find-missing-elements) |
@@ -133,4 +136,12 @@
 |  |
 | ------- |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Arnab021/Leetcode-solved-Questions/tree/master/3069-distribute-elements-into-two-arrays-i) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Arnab021/Leetcode-solved-Questions/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Arnab021/Leetcode-solved-Questions/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
