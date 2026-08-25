@@ -12,6 +12,7 @@
 | [0027-remove-element](https://github.com/Arnab021/Leetcode-solved-Questions/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Arnab021/Leetcode-solved-Questions/tree/master/0035-search-insert-position) |
 | [0075-sort-colors](https://github.com/Arnab021/Leetcode-solved-Questions/tree/master/0075-sort-colors) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Arnab021/Leetcode-solved-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Arnab021/Leetcode-solved-Questions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Arnab021/Leetcode-solved-Questions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Arnab021/Leetcode-solved-Questions/tree/master/0189-rotate-array) |
@@ -146,4 +147,8 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Arnab021/Leetcode-solved-Questions/tree/master/0075-sort-colors) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Arnab021/Leetcode-solved-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
