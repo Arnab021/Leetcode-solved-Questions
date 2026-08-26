@@ -14,6 +14,7 @@
 | [0035-search-insert-position](https://github.com/Arnab021/Leetcode-solved-Questions/tree/master/0035-search-insert-position) |
 | [0075-sort-colors](https://github.com/Arnab021/Leetcode-solved-Questions/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Arnab021/Leetcode-solved-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/Arnab021/Leetcode-solved-Questions/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Arnab021/Leetcode-solved-Questions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Arnab021/Leetcode-solved-Questions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Arnab021/Leetcode-solved-Questions/tree/master/0189-rotate-array) |
@@ -33,6 +34,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Arnab021/Leetcode-solved-Questions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Arnab021/Leetcode-solved-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0128-longest-consecutive-sequence](https://github.com/Arnab021/Leetcode-solved-Questions/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Arnab021/Leetcode-solved-Questions/tree/master/0169-majority-element) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Arnab021/Leetcode-solved-Questions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Arnab021/Leetcode-solved-Questions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -156,4 +158,8 @@
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Arnab021/Leetcode-solved-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Arnab021/Leetcode-solved-Questions/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
