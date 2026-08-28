@@ -50,6 +50,7 @@
 | [0014-longest-common-prefix](https://github.com/Arnab021/Leetcode-solved-Questions/tree/master/0014-longest-common-prefix) |
 | [1927-sum-game](https://github.com/Arnab021/Leetcode-solved-Questions/tree/master/1927-sum-game) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Arnab021/Leetcode-solved-Questions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Arnab021/Leetcode-solved-Questions/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Sliding Window
 |  |
 | ------- |
@@ -87,6 +88,7 @@
 | [0189-rotate-array](https://github.com/Arnab021/Leetcode-solved-Questions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Arnab021/Leetcode-solved-Questions/tree/master/0283-move-zeroes) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Arnab021/Leetcode-solved-Questions/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Arnab021/Leetcode-solved-Questions/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Sorting
 |  |
 | ------- |
@@ -120,6 +122,7 @@
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Arnab021/Leetcode-solved-Questions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Arnab021/Leetcode-solved-Questions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Arnab021/Leetcode-solved-Questions/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Counting
 |  |
 | ------- |
