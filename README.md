@@ -13,6 +13,7 @@
 | [0031-next-permutation](https://github.com/Arnab021/Leetcode-solved-Questions/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/Arnab021/Leetcode-solved-Questions/tree/master/0035-search-insert-position) |
 | [0075-sort-colors](https://github.com/Arnab021/Leetcode-solved-Questions/tree/master/0075-sort-colors) |
+| [0118-pascals-triangle](https://github.com/Arnab021/Leetcode-solved-Questions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Arnab021/Leetcode-solved-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Arnab021/Leetcode-solved-Questions/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Arnab021/Leetcode-solved-Questions/tree/master/0136-single-number) |
@@ -166,6 +167,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/Arnab021/Leetcode-solved-Questions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Arnab021/Leetcode-solved-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Arnab021/Leetcode-solved-Questions/tree/master/0152-maximum-product-subarray) |
 ## Union-Find
