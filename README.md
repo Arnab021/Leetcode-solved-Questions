@@ -25,6 +25,7 @@
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Arnab021/Leetcode-solved-Questions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2029-stone-game-ix](https://github.com/Arnab021/Leetcode-solved-Questions/tree/master/2029-stone-game-ix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Arnab021/Leetcode-solved-Questions/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Arnab021/Leetcode-solved-Questions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Arnab021/Leetcode-solved-Questions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Arnab021/Leetcode-solved-Questions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Arnab021/Leetcode-solved-Questions/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -95,6 +96,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/Arnab021/Leetcode-solved-Questions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Arnab021/Leetcode-solved-Questions/tree/master/0169-majority-element) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Arnab021/Leetcode-solved-Questions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Arnab021/Leetcode-solved-Questions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/Arnab021/Leetcode-solved-Questions/tree/master/3731-find-missing-elements) |
 ## Binary Search
@@ -174,4 +176,5 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Arnab021/Leetcode-solved-Questions/tree/master/0128-longest-consecutive-sequence) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Arnab021/Leetcode-solved-Questions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 <!---LeetCode Topics End-->
