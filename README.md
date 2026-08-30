@@ -24,6 +24,7 @@
 | [0485-max-consecutive-ones](https://github.com/Arnab021/Leetcode-solved-Questions/tree/master/0485-max-consecutive-ones) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Arnab021/Leetcode-solved-Questions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2029-stone-game-ix](https://github.com/Arnab021/Leetcode-solved-Questions/tree/master/2029-stone-game-ix) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Arnab021/Leetcode-solved-Questions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Arnab021/Leetcode-solved-Questions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Arnab021/Leetcode-solved-Questions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Arnab021/Leetcode-solved-Questions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -115,6 +116,7 @@
 | [0011-container-with-most-water](https://github.com/Arnab021/Leetcode-solved-Questions/tree/master/0011-container-with-most-water) |
 | [1927-sum-game](https://github.com/Arnab021/Leetcode-solved-Questions/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Arnab021/Leetcode-solved-Questions/tree/master/2029-stone-game-ix) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Arnab021/Leetcode-solved-Questions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Arnab021/Leetcode-solved-Questions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Trie
 |  |
