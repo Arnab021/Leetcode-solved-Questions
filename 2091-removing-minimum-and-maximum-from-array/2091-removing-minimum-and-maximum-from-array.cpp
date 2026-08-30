@@ -18,7 +18,6 @@ public:
         }
         int l=min(mini,maxi);
         int r=max(mini,maxi);
-        // cout << l <<" " << r << endl;
 
         return min({l+r-l+1,n-1-r+l+2,r-l+n-1-r+1});
     }
